@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3155f5ccf14ee335c7451bdf",
+  "owner": "pvrfktq",
+  "repo": "page-9a7309d4d1353fc1aadbe7ce",
+  "title": "布吉岛",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9a7309d4d1353fc1aadbe7ce",
+      "a": "布吉岛",
+      "b": "",
+      "entity": "布吉岛",
+      "brand": "布吉岛",
+      "separator": "",
+      "path": "index.html",
+      "hash": "891c139174887ec26af81638c57618cdb2c4f8840f2763a9c7631da451f77385",
+      "content": {
+        "keyword1": "布吉岛",
+        "keyword2": "",
+        "primary_entity": "布吉岛",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "布吉岛提供稳定高速的机场VPN与梯子网络加速服务，支持多端客户端下载与订阅配置，覆盖流媒体解锁、游戏加速与团队协作场景，欢迎访问布吉岛官方网站获取套餐与下载。",
+          "AI_DESCRIPTION": "布吉岛提供稳定高速的机场VPN与梯子网络加速服务，支持多端客户端下载与订阅配置，覆盖流媒体解锁、游戏加速与团队协作场景，欢迎访问布吉岛官方网站获取套餐与下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{font-size:16px}body{margin:0;background:#FFF8F5;color:#2A2422;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.7}*{box-sizing:border-box}a{color:#C44A3C;text-decoration:none}a:hover{text-decoration:underline}header,main,footer{max-width:740px;margin:0 auto;padding:0 16px}header{padding:14px 16px 10px;background:#fff;border-bottom:3px solid #E85D4C}header .brand{font-weight:700;color:#C44A3C;font-size:1.05rem}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:8px;font-size:0.92rem}h1{font-size:1.7rem;line-height:1.3;margin:18px 0 8px}h2{font-size:1.28rem;margin:22px 0 10px;color:#3A2E2B;border-left:4px solid #E85D4C;padding-left:10px}h3{font-size:1.05rem;margin:14px 0 6px}p,li{font-size:1rem;color:#2A2422}ul,ol{padding-left:1.2rem;margin:0 0 10px}.lead{color:#5C534F;margin:0 0 14px}.card{background:#fff;border:1px solid #F0D9D2;border-radius:12px;padding:14px;margin:0 0 12px}.featured{border:2px solid #E85D4C;background:#FFF1EB}.price{color:#E85D4C;font-size:1.35rem;font-weight:700}.sub{color:#5C534F;font-size:0.92rem;margin:4px 0 8px}.badge{display:inline-block;background:#E85D4C;color:#fff;font-size:0.72rem;padding:2px 8px;border-radius:99px;margin-left:6px;vertical-align:middle}.muted{color:#5C534F}.steps .card{padding:12px 14px}details{background:#fff;border:1px solid #F0D9D2;border-radius:10px;padding:8px 12px;margin:0 0 8px}summary{font-weight:600;color:#3A2E2B}details p{margin:8px 0 4px;color:#2A2422}.adbox{background:#FFF1EB;border:1px dashed #E85D4C;border-radius:10px;padding:12px;margin:0 0 12px}.links{display:flex;flex-wrap:wrap;gap:8px 12px}footer{padding:20px 16px 28px;color:#5C534F;font-size:0.9rem}.note{font-size:0.9rem;color:#5C534F}</style><header><div class=\"brand\">布吉岛官网</div><nav><a href=\"#about\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">问答</a><a href=\"#sitemap\">站点地图</a><a href=\"#ads\">广告</a><a href=\"#friends\">友链</a></nav></header><main><h1>布吉岛</h1><p class=\"lead\">布吉岛官方网站 · 机场订阅 · VPN 梯子网络加速与多端客户端下载</p><section id=\"about\"><h2>关于布吉岛</h2><p>布吉岛是面向个人用户与小团队的机场 VPN 服务，核心能力是稳定的梯子通道与可预期的网络加速体验。我们把订阅、节点与客户端说明集中在同一套配置流程里，让第一次使用的人也能按步骤完成导入与连接。</p><p>布吉岛节点覆盖常用亚太与北美出口，普通线路适合浏览与基础解锁，旗舰与团队线路强调 IPLC 专线游戏加速以及原生流媒体。流量按自然月结算，设备数按同时在线计算。请只通过布吉岛官网开通套餐，避免非官方渠道导致的订阅失效。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p class=\"note\">价格为官网标价，年付可降低月均成本。以下为当前公开档位，便于对照流量、设备与线路能力。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"sub\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"sub\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"sub\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"card\"><h3>跨境协作与资料检索</h3><p>远程会议、代码仓库、学术数据库访问时，布吉岛 VPN 用于降低链路抖动。建议办公时段优先选择延迟更稳的专线节点，并在客户端开启规则分流，让国内站点直连。</p></div><div class=\"card\"><h3>流媒体与内容订阅</h3><p>旗舰版与团队版强调全节点原生解锁，适合连续播放。若遇到区域校验，更新订阅后切换同区域备用节点即可，无需反复重装客户端。</p></div><div class=\"card\"><h3>游戏加速与移动差旅</h3><p>IPLC 专线面向对延迟敏感的对战与登录场景。差旅场景下，手机与电脑可共用同一机场订阅，注意基础版与旗舰版的同时在线台数上限。</p></div></section><section id=\"guide\" class=\"steps\"><h2>配置流程与操作说明</h2><p>布吉岛把开通到上网拆成五步。按顺序完成即可，不必记忆协议细节。配置流程是本页重点，建议第一次使用时对照执行。</p><article class=\"card\"><h3>第一步：在官网确认身份并选择套餐</h3><p>打开布吉岛官方网站登录或注册，对照流量、设备数与线路类型选择基础版、旗舰版或团队版。年付适合长期使用，月付适合短期验证线路质量。</p></article><article class=\"card\"><h3>第二步：进入用户中心复制订阅链接</h3><p>付款完成后，在订阅管理页复制通用订阅地址。该链接用于客户端自动拉取节点，请勿公开分享。团队版如需定制路由，可先提交网段说明再生成专属订阅。</p></article><article class=\"card\"><h3>第三步：下载对应系统的客户端</h3><p>Windows 常用 Clash Verge 或 v2rayN，macOS 常用 ClashX Meta 或 Surge，Android 常用 Clash Meta，iOS 常用 Shadowrocket 或 Stash。客户端安装包请以布吉岛官网下载区当时提供的版本为准。</p></article><article class=\"card\"><h3>第四步：导入订阅并更新节点</h3><p>在客户端选择「从 URL 导入」粘贴订阅，执行更新。成功后应看到香港、日本、新加坡、美国等分组。若列表为空，检查链接完整性或稍后重试更新。</p></article><article class=\"card\"><h3>第五步：选择节点连接并验证分流</h3><p>日常浏览可选普通线路，流媒体选原生解锁节点，游戏选 IPLC。连接后访问目标站点确认；国内应用保持直连可减少不必要耗流。更换网络环境时，重新测试延迟再固定节点。</p></article></section><section id=\"download\"><h2>客户端与官方下载</h2><p>布吉岛不绑定单一软件品牌，订阅兼容主流机场客户端。官方下载入口位于官网会员中心与帮助文档，本页只说明用途，避免过期安装包造成协议不匹配。</p><div class=\"card\"><h3>桌面端</h3><p>Windows / macOS 导入同一订阅即可。建议开启系统代理与规则模式，让加速器只处理需要出境的流量。若公司网络有拦截，可在客户端切换传输方式后重试。</p></div><div class=\"card\"><h3>移动端</h3><p>手机与平板占用同时在线名额。iOS 需通过商店安装对应 App 后再导入；Android 可使用 Meta 内核客户端。公共 Wi-Fi 下建议开启增强连接，减少握手失败。</p></div><p class=\"note\">如需最新客户端官方下载，请回到页面顶部导航进入配置流程，并在布吉岛官网完成订阅后再获取安装说明。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>布吉岛是什么服务？和普通加速器有何不同？</summary><p>布吉岛是提供机场订阅的 VPN 梯子服务，用户按套餐获取节点与流量，再在自选客户端中连接。与单一 App 加速器相比，布吉岛更强调可迁移的订阅、多设备共用以及按场景选择普通线路或 IPLC 专线。</p></details><details><summary>如何完成布吉岛客户端下载与订阅导入？</summary><p>先在布吉岛官网开通套餐并复制订阅链接，再按系统下载 Clash、v2rayN、Shadowrocket 等客户端，使用「订阅 URL」导入并更新节点。完整顺序见本页配置流程五步，通常数分钟内可连上。</p></details><details><summary>三个套餐应该怎么选？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 台）。需要原生解锁、游戏加速和优先工单选旗舰版（300GB / 5 台）。多人共用、高带宽或要定制路由选团队版（1000GB / 20 台）。</p></details><details><summary>流量、设备数和节点地区如何理解？</summary><p>流量按自然月统计上下行合计，当月用尽会限速或暂停加速直至下个周期。设备数指同时在线隧道数。节点以香港、日本、新加坡、台湾、美国等出口为主，具体列表以订阅更新结果为准。</p></details><details><summary>连不上或流媒体仍然提示地区限制怎么办？</summary><p>先更新订阅、更换同区域节点，并确认客户端时间为自动同步。流媒体请使用旗舰版或团队版的原生解锁节点。若仍失败，切换网络或更换客户端内核；旗舰与团队用户可提交优先工单。</p></details><details><summary>年付如何计算？是否支持发票或对公？</summary><p>基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相当于约两个月减免。团队版可沟通对公与定制路由，发票与合同细节以布吉岛官网结算与客户经理说明为准。</p></details></section><section id=\"sitemap\"><h2>站点地图</h2><p>本页为布吉岛官方介绍与下载说明的单页结构，便于对照阅读。</p><ul class=\"links\"><li><a href=\"#about\">关于布吉岛</a></li><li><a href=\"#plans\">套餐与订阅</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告合作</a></li><li><a href=\"#friends\">友情链接</a></li></ul></section><section id=\"ads\"><h2>广告合作</h2><div class=\"adbox\"><p><strong>广告位</strong>：布吉岛官网内容页可展示与网络加速、跨境协作工具相关的文字合作信息。合作以品牌互换与内容推荐为主，不放置外部脚本或弹窗。</p><p class=\"muted\">展示示例：高效远程协作工具指南 · 企业网络合规阅读 · 客户端使用规范提示</p></div></section><section id=\"friends\"><h2>友情链接</h2><p class=\"links\"><a href=\"#\">互联网应用规范</a><a href=\"#\">远程办公手册</a><a href=\"#\">流媒体版权提示</a><a href=\"#\">网络安全基础</a><a href=\"#\">开源客户端文档</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>布吉岛官方网站 · 机场 VPN 梯子网络加速与客户端下载说明</p><p>仅通过布吉岛官网获取订阅。本页为静态说明，节点与客户端版本以用户中心实时信息为准。</p><p><a href=\"#\">返回顶部</a> · <a href=\"#sitemap\">站点地图</a></p></footer>",
+          "hash": "4960eba5fd40939d59b2c305923f50ed47bff86c6c9cab13c87ae8dfabe4a0c1",
+          "seo": {
+            "title": "布吉岛官网｜布吉岛机场VPN网络加速与客户端官方下载",
+            "keywords": "布吉岛,布吉岛机场,布吉岛VPN,布吉岛梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "布吉岛提供稳定高速的机场VPN与梯子网络加速服务，支持多端客户端下载与订阅配置，覆盖流媒体解锁、游戏加速与团队协作场景，欢迎访问布吉岛官方网站获取套餐与下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ratabvd.cn",
+    "host": "p-483b11dda5.ratabvd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ratabvd.cn",
+      "url": "https://ratabvd.cn/",
+      "label": "纷达网络(Fenda)",
+      "apex": "ratabvd.cn",
+      "kind": null,
+      "identity": "thhmmec/page-02ecf4251d9ff3462c62be3d"
+    },
+    {
+      "host": "bcrpk.cn",
+      "url": "https://bcrpk.cn/",
+      "label": "布吉岛",
+      "apex": "bcrpk.cn",
+      "kind": null,
+      "identity": "uccstkhy/page-528795fd081b0c7dc650c278"
+    },
+    {
+      "host": "bmxbk.cn",
+      "url": "https://bmxbk.cn/",
+      "label": "布吉岛",
+      "apex": "bmxbk.cn",
+      "kind": null,
+      "identity": "x7wmu5dqa/page-33dcff3480716109c4bc933f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b9bc477a46b5a1c77f45fdec0376596dcedce48cb65ed932538696515b926775",
+    "sitemap.xml": "f0d721f17fa63aadc6a60a9317091bd2d9e1ced0bf1ea18a48603a1e99ba2965",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5bf3c4a4348154f2c249440606b495b25203499e06e10ec367dce987f768fb81",
+    "robots.txt": "a30cfd271dc30cc7c61393ff3dda56223c036a2172481e1d7e4968e2fd61aa1a",
+    "b3f9418d52934e1c18398275926133e2.txt": "2f26bf3aca683547e0f948ce56682769f99e37b1aca47afad866244acab76b76"
+  },
+  "revision": "51d846669375cc47d5eacc6f178f2d4e14c703f396334c324f57238856097c13"
+}
